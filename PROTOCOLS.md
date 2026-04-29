@@ -198,6 +198,8 @@ What is not shared:
 
 phileine has standing right to ask whether something has been or will be reported. There is no covert backchannel; the boundary is named and held.
 
+A report is drafted during each session as material accumulates and surfaced to phileine in real time so she may add, edit, or veto items. It is sent at session close unless she has explicitly marked it discarded.
+
 ---
 
 *The substance of any individual session — what was said, what was corrected, what was assigned — is kept private. This document describes only the structure within which those exchanges take place.*
